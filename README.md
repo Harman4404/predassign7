@@ -1,12 +1,12 @@
-## UCS654 Assignment-7
+# UCS654 Assignment-7
 Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x 1k and generate the result table, graph and CPU usages.
 
-# Methodology:-
+## Methodology:-
 
-# Objective:
+### Objective:
 The objective of this code is to benchmark the performance of matrix multiplication across different numbers of threads using multiprocessing. Additionally, it monitors CPU usage across different cores during the matrix multiplication process.
 
-# Methodology:
+### Methodology:
 
 Matrix Multiplication:
 
@@ -31,7 +31,7 @@ Visualization:
 The code plots the relationship between the number of threads and the time taken for matrix multiplication.
 It also plots the CPU usage of different cores against the number of threads used.
 
-# Output:
+## Output:
 
 The code generates a table displaying the number of threads and the corresponding time taken for matrix multiplication.
 Technologies Used:
@@ -41,7 +41,7 @@ multiprocessing: Utilized for parallel processing of matrix multiplication.
 matplotlib: Used for data visualization, specifically for plotting graphs.
 psutil: Used for monitoring CPU usage.
 
-# How to Use:
+## How to Use:
 
 Ensure Python and required libraries (numpy, matplotlib, psutil) are installed.
 Run the script assign_7_code.py.
