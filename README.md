@@ -31,11 +31,11 @@ Visualization:
 The code plots the relationship between the number of threads and the time taken for matrix multiplication.
 It also plots the CPU usage of different cores against the number of threads used.
 
-## Output:
+### Output:
 
 The code generates a table displaying the number of threads and the corresponding time taken for matrix multiplication.
 
-## Technologies Used:
+### Technologies Used:
 
 Python: The core programming language used for implementation.
 
@@ -47,7 +47,7 @@ matplotlib: Used for data visualization, specifically for plotting graphs.
 
 psutil: Used for monitoring CPU usage.
 
-## How to Use:
+### How to Use:
 
 Ensure Python and required libraries (numpy, matplotlib, psutil) are installed.
 Run the script assign_7_code.py.
