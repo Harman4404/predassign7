@@ -35,7 +35,7 @@ It also plots the CPU usage of different cores against the number of threads use
 
 The code generates a table displaying the number of threads and the corresponding time taken for matrix multiplication.
 
-Technologies Used:
+## Technologies Used:
 
 Python: The core programming language used for implementation.
 
