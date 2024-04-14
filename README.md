@@ -49,7 +49,7 @@ psutil: Used for monitoring CPU usage.
 
 ### How to Use:
 
-Ensure Python and required libraries (numpy, matplotlib, psutil) are installed.
+Ensure Python and required libraries (numpy, matplotlib, psutil) are installed.\n
 Run the script assign_7_code.py.
 Review the generated graphs to analyze the relationship between the number of threads and time taken, as well as CPU usage across different cores.
 The script also outputs a table displaying the time taken for matrix multiplication using different numbers of threads.
