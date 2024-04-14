@@ -37,9 +37,13 @@ The code generates a table displaying the number of threads and the correspondin
 
 Technologies Used:
 Python: The core programming language used for implementation.
+
 NumPy: Used for matrix operations and generation of random matrices.
+
 multiprocessing: Utilized for parallel processing of matrix multiplication.
+
 matplotlib: Used for data visualization, specifically for plotting graphs.
+
 psutil: Used for monitoring CPU usage.
 
 ## How to Use:
